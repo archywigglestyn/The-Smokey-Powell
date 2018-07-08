@@ -1,19 +1,21 @@
 # The-Smokey-Powell
 The Particle Photon Wifi Blynk controlled BBQ Smoker controller
 
-This controller reads temperature through a thermistor and controls the heat of your smoker through a fan or a
-Solid State relay. It has three extra probes to be used as meat probes.
+This controller reads temperature through a thermistor and controls the heat of your smoker through a fan or
+Solid State relay. It has three extra probe inputs to be used as meat probes.
 Wifi is used to connect to the cloud. 
 
-The blynk app is used as the main interface and is worth noting that all the info runs though the internet. So 
-one could be shopping for supplies while also monitoring ones bbq.
+The blynk app is used as the main interface and is worth noting that all the information runs though the internet. So 
+one could be shopping for supplies while also monitoring ones bbq at home.
 
-A 4x20 I2c LCD is used as a local display and four buttons as an interface
+A 4x20 I2c LCD is used as a local display and four buttons as an interface controls.
 This controller uses replacment thermistors for a Maverick ET732/ET733 grilling thermometer
 
+Watch The Youtube video for more information.
 
 
-Included links below or look above in the files.
+
+Included are links below or look above in the files.
 
 The shared particle app https://go.particle.io/shared_apps/5b414976d21fee30e00001c7
 
@@ -34,7 +36,7 @@ youtube link to video
 Smokey Powell shopping list
 
 Bill of Meterial (Look Above)
-digikey (some items are optional) you can use screw terminals or barrel jacks for power, outputs and inputs, screen signal. Really you can use anything you like that matches the pitch. You could even solder wires directly.
+digikey (some items are optional) you can use screw terminals or barrel jacks for power, outputs and inputs. Really you can use anything you like that matches the pitch. You could even solder wires directly.
 I have not tested any of the parts on this list yet.
 
 
@@ -63,8 +65,8 @@ Antenna
 Add an Antenna for extra range. Be sure to switch the text to external.
 	https://www.amazon.com/gp/product/B01GMBUS8O/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1
 
-bbq guru
-Fan	If you want to use a fan instead, this is an option. although it does not like pwm so you need to set the pulse range threshold to 100. Otherwise many 12vdc pc fans work well at about 30%
+bbq guru Fan	
+If you want to use a fan. This is an option. although it does not like pwm so you need to set the pulse range threshold to 100. Otherwise many 12vdc pc fans work well at about 30%
 https://www.bbqguru.com/storenav?CategoryId=2&ProductId=44
 
 
