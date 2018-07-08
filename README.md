@@ -33,6 +33,7 @@ youtube link to video
 
 Smokey Powell shopping list
 
+Bill of Meterial (Look Above)
 digikey (some items are optional) you can use screw terminals or barrel jacks for power, outputs and inputs, screen signal. Really you can use anything you like that matches the pitch. You could even solder wires directly.
 I have not tested any of the parts on this list yet.
 
