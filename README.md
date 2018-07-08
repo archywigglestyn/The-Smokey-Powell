@@ -17,14 +17,14 @@ I will include links below or look above in the files.
 
 The shared particle app https://go.particle.io/shared_apps/5b414976d21fee30e00001c7
 
-The Blynk App 
+The Blynk App (Look Above)
 
-The circuit board gerber file
+The circuit board gerber file	(Look Above)
 I may also decide to sell them
 
 where I have my curcuit boards made http://www.pcbunlimited.com/
 
-schematic of circuit board
+schematic of circuit board	(Look Above)
 
 thingiverse link to make 3d printed case and DIN mounts
 
