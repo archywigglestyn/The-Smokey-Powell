@@ -9,9 +9,11 @@ The blynk app is used as the main interface and is worth noting that all the inf
 one could be shopping for supplies while also monitoring ones bbq.
 
 A 4x20 I2c LCD is used as a local display and four buttons as an interface
-
 This controller uses replacment thermistors for a Maverick ET732/ET733 grilling thermometer
 
+
+
+I will include links below or look above in the files.
 
 The shared particle app https://go.particle.io/shared_apps/5b414976d21fee30e00001c7
 
@@ -24,14 +26,14 @@ where I have my curcuit boards made http://www.pcbunlimited.com/
 
 schematic of circuit board
 
-thingiverse link to case and DIN mounts
+thingiverse link to make 3d printed case and DIN mounts
 
 youtube link to video
 
 
 Smokey Powell shopping list
 
-digikey (some items are optional) you can use screw terminals or jacks for power, outputs inputs, screen signal. Really you can use anything you like that matches the pitch. You could even solder wires directly.
+digikey (some items are optional) you can use screw terminals or barrel jacks for power, outputs and inputs, screen signal. Really you can use anything you like that matches the pitch. You could even solder wires directly.
 I have not tested any of the parts on this list yet.
 
 
