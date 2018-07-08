@@ -1,15 +1,26 @@
 # The-Smokey-Powell
 The Particle Photon Wifi Blynk controlled BBQ Smoker controller
 
+This controller reads temperature through a thermistor and controls the heat of your smoker though a fan or a
+Solid State relay. It has three extra probes to be used as meat probes.
+Wifi is used to connect to the cloud. 
+
+The blynk app is used as the main interface and is worth noting that all the info runs though the internet. So 
+one could be shopping for supplies while also monitoring ones bbq.
+
+A 4x20 I2c LCD is used as a local display and four buttons as an interface
+
 This controller uses replacment thermistors for a Maverick ET732/ET733 grilling thermometer
-I will be including, a parts list, an gerber file for the circuit board, some 3d printer files for case and DIN mounts 
-and the blynk app
+
 
 The shared particle app https://go.particle.io/shared_apps/5b414976d21fee30e00001c7
 
 The Blynk App 
 
 The circuit board gerber file
+I may also decide to sell them
+
+where I have my curcuit boards made http://www.pcbunlimited.com/
 
 schematic of circuit board
 
