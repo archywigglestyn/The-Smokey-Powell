@@ -15,12 +15,13 @@ schematic of circuit board
 
 thingiverse link to case and DIN mounts
 
+youtube link to video
+
 
 Smokey Powell shopping list
-digikey (some items are optional) you can use screw terminals or jacks for power, outputs inputs, screen signal. Really you can use anything you like that matches the pitch. You could even solder wires directly
 
-
-
+digikey (some items are optional) you can use screw terminals or jacks for power, outputs inputs, screen signal. Really you can use anything you like that matches the pitch. You could even solder wires directly.
+I have not tested any of the parts on this list yet.
 
 
 amazon
