@@ -1,7 +1,7 @@
 # The-Smokey-Powell
 The Particle Photon Wifi Blynk controlled BBQ Smoker controller
 
-This controller reads temperature through a thermistor and controls the heat of your smoker though a fan or a
+This controller reads temperature through a thermistor and controls the heat of your smoker through a fan or a
 Solid State relay. It has three extra probes to be used as meat probes.
 Wifi is used to connect to the cloud. 
 
