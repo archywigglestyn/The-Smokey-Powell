@@ -19,7 +19,7 @@ The shared particle app https://go.particle.io/shared_apps/5b414976d21fee30e0000
 
 The Blynk App (Look Above)
 
-The circuit board gerber file	(Look Above)
+The circuit board gerber file	(Look Above)  Send this Zip in and order a board. Board dimensions are 4.5"x2.5"
 I may also decide to sell them
 
 where I have my curcuit boards made http://www.pcbunlimited.com/
