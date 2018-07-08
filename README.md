@@ -13,7 +13,7 @@ This controller uses replacment thermistors for a Maverick ET732/ET733 grilling 
 
 
 
-I will include links below or look above in the files.
+Included links below or look above in the files.
 
 The shared particle app https://go.particle.io/shared_apps/5b414976d21fee30e00001c7
 
