@@ -6,10 +6,12 @@ Solid State relay. It has three extra probe inputs to be used as meat probes.
 Wifi is used to connect to the cloud. 
 
 The blynk app is used as the main interface and is worth noting that all the information runs though the internet. So 
-one could be shopping for supplies while also monitoring ones bbq at home.
+one could be shopping for supplies while also monitoring ones bbq back at home.
 
-A 4x20 I2c LCD is used as a local display and four buttons as an interface controls.
-This controller uses replacment thermistors for a Maverick ET732/ET733 grilling thermometer
+A 4x20 I2c LCD is used as a local display and four buttons as the interface controls.
+This controller uses replacment thermistors for a Maverick ET732/ET733 grilling thermometer.
+
+For those that use the curcuit board. The Outputs are sinking.
 
 Watch The Youtube video for more information.
 
