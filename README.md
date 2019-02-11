@@ -21,25 +21,25 @@ Watch The Youtube video for more information.
 
 Included are links below or look above in the files.
 
-The shared particle app https://go.particle.io/shared_apps/5b414976d21fee30e00001c7
+The shared particle app (ADD LINK HERE)
 
 The Blynk App (Look Above)
 
-The circuit board gerber file	(Look Above)(Outdated)  Send this Zip file in to order a board. Board dimensions are 4.75"x2.5"
+The circuit board gerber file	(Look Above)  Send this Zip file in to order a board. Board dimensions are 4.75"x2.5"
 I may also decide to sell them
 
 where I have my curcuit boards made http://www.pcbunlimited.com/ They are great quality and cheap!
 
-schematic of circuit board	(Look Above)(Outdated)
+schematic of circuit board	(Look Above)
 
 thingiverse link to make 3d printed case and DIN mounts (Link coming soon!)
 
 youtube link to video	(Link coming soon)
 
 
-Smokey Powell shopping list: (Outdated)
+Smokey Powell shopping list:
 
-Bill of Meterial (Look Above)	(Outdated)
+Bill of Meterial (Look Above)
 digikey (some items are optional) you can use screw terminals or barrel jacks for power, outputs and inputs. Really you can use anything you like that matches the pitch. You could even solder wires directly.
 (I have not tested all of the parts on this list yet.)
 
