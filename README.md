@@ -21,7 +21,7 @@ Watch The Youtube video for more information.
 
 Included are links below or look above in the files.
 
-The shared particle app (ADD LINK HERE)
+The shared particle app https://go.particle.io/shared_apps/5c60ee8c12cdf50005e21c7c
 
 The Blynk App (Look Above)
 
