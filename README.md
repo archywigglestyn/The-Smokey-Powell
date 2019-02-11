@@ -1,17 +1,19 @@
 # The-Smokey-Powell
 The Particle Photon Wifi Blynk controlled BBQ Smoker controller
 
-This controller reads temperature through a thermistor and controls the heat of your smoker through a fan or
+This controller reads temperature through a thermistor. Control of your smokers heat is made through a fan or
 Solid State relay. It has three extra probe inputs to be used as meat probes.
 Wifi is used to connect to the cloud. 
 
-The blynk app is used as the main interface and is worth noting that all the information runs though the internet. So 
-one could be shopping for supplies while also monitoring ones bbq back at home.
+The blynk app is used as the main interface and is worth noting that all the information runs though the cloud. So 
+one could be shopping for supplies, while also monitoring ones bbq back at home.
 
 A 4x20 I2c LCD is used as a local display and four buttons as the interface controls.
-This controller uses replacment thermistors for a Maverick ET732/ET733 grilling thermometer.
+The local interface is a little clunky. The main interface was intended to be the blynk app.
 
-For those that use the curcuit board. The Outputs are sinking.
+This controller uses replacment thermistors for Weber iGrill2 grilling thermometer.
+
+For those that use the curcuit board I designed. The Outputs are sinking.
 
 Watch The Youtube video for more information.
 
@@ -23,40 +25,37 @@ The shared particle app https://go.particle.io/shared_apps/5b414976d21fee30e0000
 
 The Blynk App (Look Above)
 
-The circuit board gerber file	(Look Above)  Send this Zip file in to order a board. Board dimensions are 4.75"x2.5"
+The circuit board gerber file	(Look Above)(Outdated)  Send this Zip file in to order a board. Board dimensions are 4.75"x2.5"
 I may also decide to sell them
 
-where I have my curcuit boards made http://www.pcbunlimited.com/
+where I have my curcuit boards made http://www.pcbunlimited.com/ They are great quality and cheap!
 
-schematic of circuit board	(Look Above)
+schematic of circuit board	(Look Above)(Outdated)
 
-thingiverse link to make 3d printed case and DIN mounts
+thingiverse link to make 3d printed case and DIN mounts (Link coming soon!)
 
-youtube link to video
+youtube link to video	(Link coming soon)
 
 
-Smokey Powell shopping list
+Smokey Powell shopping list: (Outdated)
 
-Bill of Meterial (Look Above)
+Bill of Meterial (Look Above)	(Outdated)
 digikey (some items are optional) you can use screw terminals or barrel jacks for power, outputs and inputs. Really you can use anything you like that matches the pitch. You could even solder wires directly.
-I have not tested any of the parts on this list yet.
+(I have not tested all of the parts on this list yet.)
 
 
-amazon
-meat probes, any Maverick ET-732/733 replacement probe should work. I use the meat probes for both tasks
-https://www.amazon.com/gp/product/B01FVQHTUQ/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1
+meat probes, https://www.amazon.com/Weber-iGrill-Pro-Meat-Probe/dp/B01M8LG8U5/ref=sr_1_4?ie=UTF8&qid=1549819424&sr=8-4&keywords=igrill+2+probes
+
 
 2n2222a or 2n2222 these are cheap and appear to be everywhere except Digikey. Looks like they are becoming obsolete	
 https://www.amazon.com/2N2222-Plastic-Encapsulate-Power-Transistors-600mA/dp/B06XPWS52G/ref=sr_1_2?ie=UTF8&qid=1530481975&sr=8-2&keywords=2n2222a
 
 
 
-Optional items 
+Optional items:
 
 
 
-
-Amazon
 5vdc buzzer 12mm use this if you want a microwave like beep for the alarm. Otherwise attach whatever you want to the relay, noise maker, light, spinning flag motor.
 	https://www.amazon.com/gp/product/B00B0Q4KKO/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1
 
@@ -64,7 +63,7 @@ SS Relay	these work good if you are going to do some high power electric smoking
 	https://www.amazon.com/gp/product/B0087ZTN08/ref=oh_aui_search_detailpage?ie=UTF8&psc=1
 
 Antenna
-Add an Antenna for extra range. Be sure to switch the text to external.
+Add an Antenna for extra range. Be sure to switch the text to external in the program.
 	https://www.amazon.com/gp/product/B01GMBUS8O/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1
 
 bbq guru Fan	
