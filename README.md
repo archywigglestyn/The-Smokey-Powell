@@ -5,8 +5,7 @@ This controller reads temperature through a thermistor. Control of your smokers 
 Solid State relay. It has three extra probe inputs to be used as meat probes.
 Wifi is used to connect to the cloud. 
 
-The blynk app is used as the main interface and is worth noting that all the information runs though the cloud. So 
-one could be shopping for supplies, while also monitoring ones bbq back at home.
+The blynk app is used as the main interface from your phone or mobile device. It is worth noting that all the information runs through the cloud. This means one could be shopping for supplies, while also monitoring ones bbq back at home.
 
 A 4x20 I2c LCD is used as a local display and four buttons as the interface controls.
 The local interface is a little clunky. The main interface was intended to be the blynk app.
@@ -21,9 +20,9 @@ Watch The Youtube video for more information.
 
 Included are links below or look above in the files.
 
-The shared particle app https://go.particle.io/shared_apps/5c60ee8c12cdf50005e21c7c
+The shared particle app https://go.particle.io/shared_apps/5c64e3e1db250300226cc41c You will need to copy it to your apps so you can modify it.
 
-The Blynk App (Look Above)
+The Blynk App (Look Above) Download Blynk. In Blynk there is an option take a picture of the QR code.
 
 The circuit board gerber file	(Look Above)  Send this Zip file in to order a board. Board dimensions are 4.75"x2.5"
 I may also decide to sell them
@@ -47,9 +46,11 @@ digikey (some items are optional) you can use screw terminals or barrel jacks fo
 meat probes, https://www.amazon.com/Weber-iGrill-Pro-Meat-Probe/dp/B01M8LG8U5/ref=sr_1_4?ie=UTF8&qid=1549819424&sr=8-4&keywords=igrill+2+probes
 
 
-2n2222a or 2n2222 these are cheap and appear to be everywhere except Digikey. Looks like they are becoming obsolete	
+2n2222a or 2n2222 these are cheap and appear to be everywhere except Digikey. Looks like they are becoming obsolete. You will need three of them.	
 https://www.amazon.com/2N2222-Plastic-Encapsulate-Power-Transistors-600mA/dp/B06XPWS52G/ref=sr_1_2?ie=UTF8&qid=1530481975&sr=8-2&keywords=2n2222a
 
+This is the particle photon. The brains of the operation.
+https://www.amazon.com/Particle-Reprogrammable-Development-Prototyping-Electronics/dp/B016YNU1A0/ref=sr_1_2?ie=UTF8&qid=1550113530&sr=8-2&keywords=photon
 
 
 Optional items:
