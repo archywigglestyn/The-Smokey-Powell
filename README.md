@@ -10,9 +10,10 @@ The blynk app is used as the main interface from your phone or mobile device. It
 A 4x20 I2c LCD is used as a local display and four buttons as the interface controls.
 The local interface is a little clunky. The main interface was intended to be the blynk app.
 
-This controller uses replacment thermistors for Weber iGrill2 grilling thermometer.
+This controller can use replacement thermistors for Weber iGrill2 grilling thermometer. Or any other thermistor that will work 
+with a 10k ohm reference resistor.
 
-For those that use the curcuit board I designed. The Outputs are sinking.
+For those that use the circuit board I designed. The Outputs are sinking.
 
 Watch The Youtube video for more information.
 
@@ -20,14 +21,14 @@ Watch The Youtube video for more information.
 
 Included are links below or look above in the files.
 
-The shared particle app https://go.particle.io/shared_apps/5c64e3e1db250300226cc41c You will need to copy it to your apps so you can modify it.
+The shared particle app https://go.particle.io/shared_apps/5c6e08c1d71ca3001585fe01 You will need to copy it to your apps so you can modify it.
 
 The Blynk App (Look Above) Download Blynk. In Blynk there is an option take a picture of the QR code.
 
 The circuit board gerber file	(Look Above)  Send this Zip file in to order a board. Board dimensions are 4.75"x2.5"
 I may also decide to sell them
 
-where I have my curcuit boards made http://www.pcbunlimited.com/ They are great quality and cheap!
+where I have my circuit boards made http://www.pcbunlimited.com/ They are great quality and cheap!
 
 schematic of circuit board	(Look Above)
 
@@ -38,7 +39,7 @@ youtube link to video	(Link coming soon)
 
 Smokey Powell shopping list:
 
-Bill of Meterial (Look Above)
+Bill of Material (Look Above)
 digikey (some items are optional) you can use screw terminals or barrel jacks for power, outputs and inputs. Really you can use anything you like that matches the pitch. You could even solder wires directly.
 (I have not tested all of the parts on this list yet.)
 
