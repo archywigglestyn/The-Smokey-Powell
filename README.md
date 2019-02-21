@@ -21,7 +21,7 @@ Watch The Youtube video for more information.
 
 Included are links below or look above in the files.
 
-The shared particle app https://go.particle.io/shared_apps/5c6e08c1d71ca3001585fe01 You will need to copy it to your apps so you can modify it.
+The shared particle app https://go.particle.io/shared_apps/5c6e0d62d71ca3002285fe2e You will need to copy it to your apps so you can modify it.
 
 The Blynk App (Look Above) Download Blynk. In Blynk there is an option take a picture of the QR code.
 
