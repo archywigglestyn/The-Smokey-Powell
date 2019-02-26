@@ -16,8 +16,7 @@ with a 10k ohm reference resistor.
 For those that use the circuit board I designed. The Outputs are sinking.
 
 Watch The Youtube video for more information.
-
-
+https://youtu.be/kV1lrQCiiBc
 
 Included are links below or look above in the files.
 
