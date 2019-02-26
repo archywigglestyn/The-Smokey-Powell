@@ -71,7 +71,8 @@ bbq guru Fan
 If you want to use a fan. This is an option. although it does not like pwm so you need to set the pulse range threshold to 100. Otherwise many 12vdc pc fans work well at about 30%
 https://www.bbqguru.com/storenav?CategoryId=2&ProductId=44
 
-
+The connectors I used for the screen
+https://www.amazon.com/Hilitchi-JST-XHP-housing-Connector-Adapter/dp/B015Y6JOUG/ref=sr_1_3?keywords=2.54+head+connector&qid=1551144713&s=gateway&sr=8-3
 
 
 
