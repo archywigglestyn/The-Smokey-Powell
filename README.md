@@ -32,8 +32,9 @@ where I have my circuit boards made http://www.pcbunlimited.com/ They are great 
 schematic of circuit board	(Look Above)
 
 thingiverse link to make 3d printed case and DIN mounts (Link coming soon!)
+Hi Resolution single output case https://www.thingiverse.com/thing:3453571
 
-youtube link to video	(Link coming soon)
+
 
 
 Smokey Powell shopping list:
