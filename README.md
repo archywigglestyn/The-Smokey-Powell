@@ -20,7 +20,8 @@ https://youtu.be/kV1lrQCiiBc
 
 Included are links below or look above in the files.
 
-The shared particle app https://go.particle.io/shared_apps/5c6e0d62d71ca3002285fe2e You will need to copy it to your apps so you can modify it.
+Ooops I made a mistake with the fan output On/Off cycle. Call this version 1.1!
+The shared particle app https://go.particle.io/shared_apps/5c80577dfeadaf000a69200d You will need to copy it to your apps so you can modify it.
 
 The Blynk App (Look Above) Download Blynk. In Blynk there is an option take a picture of the QR code.
 
