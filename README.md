@@ -29,6 +29,7 @@ The circuit board gerber file	(Look Above)  Send this Zip file in to order a boa
 I may also decide to sell them
 
 where I have my circuit boards made http://www.pcbunlimited.com/ They are great quality and cheap!
+Look for Panel Share. It moves around on the website but it's the cheapest way if you only want one. $19.95 as of 3/15/19
 
 schematic of circuit board	(Look Above)
 
