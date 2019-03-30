@@ -74,5 +74,5 @@ https://www.bbqguru.com/storenav?CategoryId=2&ProductId=44
 The connectors I used for the screen
 https://www.amazon.com/Hilitchi-JST-XHP-housing-Connector-Adapter/dp/B015Y6JOUG/ref=sr_1_3?keywords=2.54+head+connector&qid=1551144713&s=gateway&sr=8-3
 
-Dayton 3FRG5 DC Blower, 12 VDC, 57 CFM. This is a Big blower. It the screen dims on my controller when it starts. works well with PWM.
+Dayton 3FRG5 DC Blower, 12 VDC, 57 CFM. This is a Big blower. The screen dims on my controller when it starts. works well with PWM.
 https://www.amazon.com/gp/product/B004KFI6HK/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
