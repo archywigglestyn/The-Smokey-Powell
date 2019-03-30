@@ -26,17 +26,14 @@ The shared particle app https://go.particle.io/shared_apps/5c80577dfeadaf000a692
 The Blynk App (Look Above) Download Blynk. In Blynk there is an option take a picture of the QR code.
 
 The circuit board gerber file	(Look Above)  Send this Zip file in to order a board. Board dimensions are 4.75"x2.5"
-I may also decide to sell them
+I may also decide to sell them	 3-29-18 I uploaded V1.1, It has a few minor fixes.
 
 where I have my circuit boards made http://www.pcbunlimited.com/ They are great quality and cheap!
 Look for Panel Share. It moves around on the website but it's the cheapest way if you only want one. $19.95 as of 3/15/19
 
-schematic of circuit board	(Look Above) 3-29-18 I uploaded V1.1, It has a few minor fixes.
+schematic of circuit board	(Look Above)
 
-thingiverse link to make 3d printed case and DIN mounts (Link coming soon!)
-Hi Resolution single output case https://www.thingiverse.com/thing:3453571
-
-
+thingiverse link to make 3d printed cases and DIN mounts https://www.thingiverse.com/thing:3453571
 
 
 Smokey Powell shopping list:
