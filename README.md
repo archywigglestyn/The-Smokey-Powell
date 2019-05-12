@@ -23,6 +23,10 @@ Included are links below or look above in the files.
 Ooops I made a mistake with the fan output On/Off cycle. Call this version 1.1!
 The shared particle app https://go.particle.io/shared_apps/5c80577dfeadaf000a69200d You will need to copy it to your apps so you can modify it.
 
+Version 1.2 Fixes issues with slow internet by using event based communication with blynk compaired to timed.
+Also allows smoke percent to be set while in off mode.
+https://go.particle.io/shared_apps/5cd7962f07e91900229c8bc1
+
 The Blynk App (Look Above) Download Blynk. In Blynk there is an option take a picture of the QR code.
 
 The circuit board gerber file	(Look Above)  Send this Zip file in to order a board. Board dimensions are 4.75"x2.5"
