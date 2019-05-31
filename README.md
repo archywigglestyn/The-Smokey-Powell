@@ -20,9 +20,6 @@ https://youtu.be/kV1lrQCiiBc
 
 Included are links below or look above in the files.
 
-Ooops I made a mistake with the fan output On/Off cycle. Call this version 1.1!
-The shared particle app https://go.particle.io/shared_apps/5c80577dfeadaf000a69200d You will need to copy it to your apps so you can modify it.
-
 Version 1.2 Fixes issues with slow internet by using event based communication with blynk compaired to timed.
 Also allows smoke percent to be set while in off mode.
 https://go.particle.io/shared_apps/5cd7962f07e91900229c8bc1
@@ -35,7 +32,7 @@ I may also decide to sell them	 3-29-18 I uploaded V1.1, It has a few minor fixe
 where I have my circuit boards made http://www.pcbunlimited.com/ They are great quality and cheap!
 Look for Panel Share. It moves around on the website but it's the cheapest way if you only want one. $19.95 as of 3/15/19
 
-schematic of circuit board	(Look Above)
+schematic of circuit board	SCH,PDF, and BRD (Look Above)
 
 thingiverse link to make 3d printed cases and DIN mounts https://www.thingiverse.com/thing:3453571
 
