@@ -23,7 +23,10 @@ Included are links below or look above in the files.
 Version 1.2 Fixes issues with slow internet by using event based communication with blynk compaired to timed.
 Also allows smoke percent to be set while in off mode.
 Version 1.3, 6-16-19 Renames a variable to an unused name. so that the code will compile.
-https://go.particle.io/shared_apps/5cfc6fd74199eb00140c3a59
+
+1.4, 7-4-19 A fellow creator found a variable I forgot to change.
+https://go.particle.io/shared_apps/5d1ea377e9731c0017650d83
+
 
 The Blynk App (Look Above) Download Blynk. In Blynk there is an option take a picture of the QR code.
 
